@@ -18,7 +18,6 @@
 #
 ##############################################################################
 from datetime import datetime
-strftime = datetime.strptime
 from dateutil.relativedelta import relativedelta
 
 from openerp import models, fields, api,  _
